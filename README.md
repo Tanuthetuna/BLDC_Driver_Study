@@ -1,3 +1,5 @@
 # BLDC_Driver_Study
 Study of BLDC motor driver design, including schematic, PCB, and firmware. Focuses on Field-Oriented Control (FOC) using embedded systems. Aims to understand and prototype efficient BLDC driving techniques.
+
+
 🎥 [Furuta Pendulum Test using BLDC FOC & LQR](https://youtu.be/Lkdkzh0fA5w)
