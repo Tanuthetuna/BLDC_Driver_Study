@@ -1,1 +1,0 @@
-Altium PCB files
